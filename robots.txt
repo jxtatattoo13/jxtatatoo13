@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://cerecea.github.io/sitemap.xml
