@@ -1,2 +1,2 @@
-# jxtatatoo13
+# jxtattoo
 Personal portfolio of @jxtatatoo13
